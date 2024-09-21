@@ -217,3 +217,9 @@ body {
     opacity: 1;
   }
 }
+
+@media (max-width: 576px) {
+  .calendar {
+    padding: 9px;
+  }
+}
